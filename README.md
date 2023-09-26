@@ -33,3 +33,22 @@ a) Bonus Test Case:
 - You can use print statements in case you want to debug and understand the logic of the test code.
 - Please get in touch with the TAs if you face issues in using the test scripts.
 
+## Sample Output Screenshots:
+
+### Test Case 1
+![test_case_1](sample_output/test1.png)
+
+### Test Case 2
+![test_case_2](sample_output/test2.png)
+
+### Test Case 3
+![test_case_3](sample_output/test3.png)
+
+### Test Case 4
+![test_case_4](sample_output/test4.png)
+
+### Test Case 5
+![test_case_5](sample_output/test5.png)
+
+### Test Case 6
+![test_case_6](sample_output/test6.png)
